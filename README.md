@@ -20,9 +20,12 @@ This version represents Phase 2 of my project, which focuses on showing progress
 
 ## How to Compile and Run
 1. Download or clone the repository:
-2. Open a terminal in the project folder.
-3. Compile all Java files:
-4. Run the program:
+git clone https://github.com/abweyohali/BeginnerFitnessApp
+3. Open a terminal in the project folder.
+4. Compile all Java files:
+javac *.java
+6. Run the program:
+java Main
 
 ---
 
