@@ -1,4 +1,4 @@
-# Beginner Fitness App – COSC 111 Final Project (Phase 2) 
+# Beginner Fitness App – COSC 111 Final Project - Abwe-Yohali Selemani
 
 ## Project Overview
 This program is a simple beginner fitness application designed to help new or formerly sedentary users start moving in a manageable way. The app creates a user profile, stores an activity level, and provides basic exercise suggestions. It also tracks progress each time the user completes an activity.
@@ -7,7 +7,7 @@ This version represents Phase 2 of my project, which focuses on showing progress
 
 ---
 
-## Features Completed for Phase 2
+## Features Completed 
 - User class that stores name, activity level, and progress
 - Exercise class for creating different types of exercises
 - ProgramEngine class that loads sample exercises and provides a basic daily suggestion
@@ -36,6 +36,3 @@ java Main
 - **ProgramEngine.java** – loads exercise lists and returns suggestions  
 
 ---
-
-## Notes
-This version is still in early development and only includes basic functionality. 
