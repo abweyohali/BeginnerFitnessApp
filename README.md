@@ -3,7 +3,6 @@
 ## Project Overview
 This program is a simple beginner fitness application designed to help new or formerly sedentary users start moving in a manageable way. The app creates a user profile, stores an activity level, and provides basic exercise suggestions. It also tracks progress each time the user completes an activity.
 
-This version represents Phase 2 of my project, which focuses on showing progress in development and setting up the GitHub repository.
 
 ---
 
